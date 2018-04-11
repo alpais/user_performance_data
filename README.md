@@ -59,10 +59,11 @@ The scripts in this repository perform the following steps for data preparation:
  * dynamic time warping
  * data plotting and visualization
 
-> The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained:
->> after parsing - see [rawdata_sensors_parsed](https://github.com/alpais/user_performance_data/tree/master/S0_raw_data_parsing/raw_data/rawdata_sensors_parsed) 
->> the data obtained after preprocessing and DTW - see [ppdata_DTW](https://github.com/alpais/user_performance_data/tree/master/S1_data_preprocessing/ppdata_dtw)
- > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
+The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained:
+ * after parsing - see [rawdata_sensors_parsed](https://github.com/alpais/user_performance_data/tree/master/S0_raw_data_parsing/raw_data/rawdata_sensors_parsed) 
+ * the data obtained after preprocessing and DTW - see [ppdata_DTW](https://github.com/alpais/user_performance_data/tree/master/S1_data_preprocessing/ppdata_dtw)
+ 
+ Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB).
 
 
 ## Data analysis and stats
