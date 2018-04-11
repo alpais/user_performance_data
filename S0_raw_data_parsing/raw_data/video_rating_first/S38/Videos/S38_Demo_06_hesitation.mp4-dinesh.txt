@@ -1,0 +1,4 @@
+type: trial
+observer: dinesh
+video: C:\Users\Dinesh\Desktop\experiment_video_rating\VIDEO_RATING\S38\Videos\S38_Demo_06_hesitation.mp4
+answers: 2,1,0,1,0,2

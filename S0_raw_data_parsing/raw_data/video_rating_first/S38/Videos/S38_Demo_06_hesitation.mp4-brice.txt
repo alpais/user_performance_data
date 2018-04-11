@@ -1,0 +1,4 @@
+type: trial
+observer: brice
+video: C:\Users\Brice\Videos\VIDEO RATING\S38\Videos\S38_Demo_06_hesitation.mp4
+answers: 1,1,0,1,1,2

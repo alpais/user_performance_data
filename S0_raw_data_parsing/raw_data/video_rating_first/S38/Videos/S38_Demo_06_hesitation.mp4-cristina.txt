@@ -1,0 +1,4 @@
+type: trial
+observer: cristina
+video: C:\Users\alex\Desktop\Release\Video_Rating\S38\Videos\S38_Demo_06_hesitation.mp4
+answers: 2,2,1,0,1,1

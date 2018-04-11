@@ -1,0 +1,4 @@
+type: trial
+observer: test
+video: C:\Users\alex\Desktop\Release\Video_Rating\S07\Videos\S07_Demo_04.mp4
+answers: 2,2,0,0,0,2

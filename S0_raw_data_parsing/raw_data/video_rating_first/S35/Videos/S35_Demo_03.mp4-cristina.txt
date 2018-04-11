@@ -1,0 +1,4 @@
+type: trial
+observer: cristina
+video: C:\Users\alex\Desktop\Release\Video_Rating\S35\Videos\S35_Demo_03.mp4
+answers: 2,1,0,0,0,1

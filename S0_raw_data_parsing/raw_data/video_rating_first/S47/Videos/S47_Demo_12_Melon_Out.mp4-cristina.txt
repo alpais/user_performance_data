@@ -1,0 +1,4 @@
+type: trial
+observer: cristina
+video: C:\Users\alex\Desktop\Release\Video_Rating\S47\Videos\S47_Demo_12_Melon_Out.mp4
+answers: 1,3,0,0,0,3

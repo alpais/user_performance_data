@@ -1,0 +1,4 @@
+type: trial
+observer: mina
+video: C:\Users\alpais\Desktop\SCOOPING_VIDEO_RATING\video_data_batch_02\S25\Videos\S25_Demo_12.mp4
+answers: 2,2,1,1,1,2

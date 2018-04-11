@@ -1,0 +1,4 @@
+type: trial
+observer: cristina
+video: C:\Users\alex\Desktop\Release\Video_Rating\S49\Videos\S49_Demo_04.mp4
+answers: 2,2,0,0,0,1

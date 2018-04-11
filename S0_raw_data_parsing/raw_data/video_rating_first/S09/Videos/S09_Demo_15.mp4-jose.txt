@@ -1,0 +1,4 @@
+type: trial
+observer: jose
+video: C:\Users\alpais\Desktop\SCOOPING_VIDEO_RATING\video_data_batch_01\S09\Videos\S09_Demo_15.mp4
+answers: 4,2,0,0,0,2

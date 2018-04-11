@@ -1,0 +1,4 @@
+type: trial
+observer: dinesh
+video: C:\Users\Dinesh\Desktop\experiment_video_rating\VIDEO_RATING\S47\Videos\S47_Demo_12_Melon_Out.mp4
+answers: 1,1,0,1,0,3

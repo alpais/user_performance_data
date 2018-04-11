@@ -1,0 +1,4 @@
+type: trial
+observer: cristina
+video: C:\Users\alex\Desktop\Release\Video_Rating\S45\Videos\S45_Demo_13.mp4
+answers: 2,3,1,0,0,3

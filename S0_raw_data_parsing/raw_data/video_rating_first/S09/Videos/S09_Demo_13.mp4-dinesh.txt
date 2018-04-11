@@ -1,0 +1,4 @@
+type: trial
+observer: dinesh
+video: C:\Users\Dinesh\Desktop\experiment_video_rating\VIDEO_RATING\S09\Videos\S09_Demo_13.mp4
+answers: 1,1,0,0,1,1

@@ -1,0 +1,4 @@
+type: trial
+observer: nadia
+video: C:\Users\alpais\Desktop\SCOOPING_VIDEO_RATING\video_data_batch_01\S13\Videos\S13_Demo_09.mp4
+answers: 5,2,0,0,0,2

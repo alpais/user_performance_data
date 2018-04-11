@@ -1,0 +1,4 @@
+type: trial
+observer: brice
+video: C:\Users\Brice\Videos\VIDEO RATING\S50\Videos\S50_Demo_04.mp4
+answers: 3,1,0,0,0,2

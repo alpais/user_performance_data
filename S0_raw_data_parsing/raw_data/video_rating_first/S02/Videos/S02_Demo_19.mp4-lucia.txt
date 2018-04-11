@@ -1,0 +1,4 @@
+type: trial
+observer: lucia
+video: D:\Dropbox\MyPhdWork\ALP_User_studies\USER_STUDY_Mellon_Scooping_RELOADED\ppdata\S02\Videos\S02_Demo_19.mp4
+answers: 3,2,0,0,1,2

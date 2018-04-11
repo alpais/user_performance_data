@@ -1,0 +1,4 @@
+type: trial
+observer: ilaria
+video: C:\Users\ilari\Desktop\video_rating_batch2\S33\Videos\S33_Demo_06.mp4
+answers: 2,1,0,0,1,3

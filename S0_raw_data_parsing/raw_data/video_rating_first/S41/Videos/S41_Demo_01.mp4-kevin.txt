@@ -1,0 +1,4 @@
+type: trial
+observer: kevin
+video: C:\Users\alpais\Desktop\SCOOPING_VIDEO_RATING\video_data_batch_03\S41\Videos\S41_Demo_01.mp4
+answers: 4,2,0,0,0,3

@@ -1,0 +1,13 @@
+
+
+ 4 - Alexandra 	- all subjects 	- random order	- finished
+ 5 - Cristina 	- all subjects 	- random order	- finished
+ 1 - Nadia		- batch 1       - random order	- finished
+ 2 - Mina		- batch 2       - random order	- finished
+ 3 - Kevin		- batch 3       - random order	- finished
+
+ 6 - Dinesh		- all subjects	- user ordering	- finished
+ 7 - Samuel		- all subjects	- user ordering	- finished
+ 8 - Jose		- batch 1       - user ordering	- finished
+ 9 - Ilaria		- batch 2       - user ordering	- finished
+10 - Brice		- batch 3       - user ordering	- finished

@@ -1,0 +1,4 @@
+type: trial
+observer: mina
+video: C:\Users\Mina Shirvani\Dropbox\Mina\Luccia\videos_batch_2\S36\Videos\S36_Demo_12.mp4
+answers: 2,2,0,1,1,2

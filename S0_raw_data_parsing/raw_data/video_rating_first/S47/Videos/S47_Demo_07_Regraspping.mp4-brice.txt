@@ -1,0 +1,4 @@
+type: trial
+observer: brice
+video: C:\Users\Brice\Videos\VIDEO RATING\S47\Videos\S47_Demo_07_Regraspping.mp4
+answers: 1,1,1,1,1,1

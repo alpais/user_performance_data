@@ -1,0 +1,4 @@
+type: trial
+observer: brice
+video: C:\Users\Brice\Videos\VIDEO RATING\S47\Videos\S47_Demo_08.mp4
+answers: 2,1,0,1,0,1

@@ -1,0 +1,32 @@
+
+
+For each demonstration
+======================
+
+How well did this person perform?
+poorly ?? 1    -   ?? 2   -   ?? 3   -  ?? 4   -  ?? 5 great
+
+Task pace: 
+?? too slow	?? normal	?? too fast
+
+What was bad in this demonstration?
+? arm coordination ? grasp ? direction of movement
+
+Force applied:
+?? too little	?? normal	??  too much
+
+
+
+
+For each subject:
+=================
+
+How would you rate the overall performance of this person?
+poor ?? 1    -   ?? 2   -   ?? 3   -  ?? 4   -  ?? 5 great
+
+Did this subject improve over trials?
+Yes/No
+
+
+Was this subject "in control"?
+Yes/No

@@ -1,0 +1,4 @@
+type: trial
+observer: ilaria
+video: C:\Users\ilari\Desktop\video_rating_batch2\S37\Videos\S37_Demo_09.mp4
+answers: 4,2,0,0,0,1

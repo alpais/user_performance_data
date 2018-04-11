@@ -1,0 +1,4 @@
+type: trial
+observer: samuel
+video: F:\SCOOPING_VIDEO_RATING\S18\Videos\S18_Demo_08.mp4
+answers: 2,1,1,1,1,2

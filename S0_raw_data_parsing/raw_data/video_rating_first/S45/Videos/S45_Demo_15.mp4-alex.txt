@@ -1,0 +1,4 @@
+type: trial
+observer: alex
+video: C:\Users\Alexandra\Desktop\experiment_video_rating\VIDEO_RATING\S45\Videos\S45_Demo_15.mp4
+answers: 2,3,0,0,0,1

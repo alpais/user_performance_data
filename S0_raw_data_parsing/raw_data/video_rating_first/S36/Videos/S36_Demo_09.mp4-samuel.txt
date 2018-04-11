@@ -1,0 +1,4 @@
+type: trial
+observer: samuel
+video: F:\SCOOPING_VIDEO_RATING\S36\Videos\S36_Demo_09.mp4
+answers: 1,3,0,1,0,1

@@ -1,0 +1,4 @@
+type: trial
+observer: test2
+video: D:\Dropbox\MyPhdWork\ALP_User_studies\USER_STUDY_Mellon_Scooping_RELOADED\video_data\S01\Videos\S01_Demo_08.mp4
+answers: 3,1,0,1,0,1
