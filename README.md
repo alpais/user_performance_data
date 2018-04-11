@@ -27,3 +27,24 @@ For recording demonstrations we used the following setup (also shown in the imag
 
 <img src="/images/overall_setup.jpg" width="32%"/>  <img src="/images/glove.JPG" width="32%"/>  <img src="/images/tool.JPG" width="32%"/>
 <img src="/images/external_obj.JPG" width="32%"/>  <img src="/images/cameras.JPG" width="32%"/>  <img src="/images/robot.JPG" width="32%"/>
+
+
+## Recorded data
+
+In this experiment we collected the following data :
+* sensor data, consisting of:
+  * robot data
+    * end effector position and orientation
+    * forces acting on the robot's end effector
+  * human hand data, consisting of:
+    * position and orientation of the wrist
+    * finger joint angles
+    * tactile readings from the patches on the fornt and side of each phalange and palm
+  * tool data, consisting of:
+    * tool position ond orientation
+     * forces and torques acting on the tool
+  * external objects - full pose tracking
+* post experiment questionnaire data (annonymised)
+* video data - recordings of each demonstration performed by each subject)
+* video rating data - from external raters who have not performed the experiment
+* external measurements - scooped quantity
