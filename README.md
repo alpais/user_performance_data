@@ -63,7 +63,8 @@ The scripts in this repository perform the following steps for data preparation:
 
  > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
 
+
 ## Data analysis and stats
 
-For the analysis of the data in this experiment and the generated statsitics see the following repository:
+For the analysis of the data in this experiment and the generated statistics see the following repository:
 [user_performance_estimation](https://github.com/alpais/user_performance_estimation)
