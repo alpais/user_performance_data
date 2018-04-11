@@ -6,7 +6,7 @@ This repository contains data as well as parsing and preprocessing scripts for t
 | Dependencies  |
 | ------------- |
 | [my_matlab_rosbag](https://github.com/nbfigueroa/my_matlab_rosbag)|
-| [DTW]()|
+| [WarpingTB]()|
 
 
 
@@ -59,6 +59,6 @@ The scripts in this repo perform the following steps for data preparation:
  * dynamic time warping
  * data plotting and visualization
 
-  > The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained after the DTW.
+ > The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained after the DTW.
 
-  > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
+ > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
