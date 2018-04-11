@@ -52,7 +52,7 @@ In this experiment we collected the following data :
 
 ## Data parsing and preprocessing
 
-The scripts in this repo perform the following steps for data preparation:
+The scripts in this repository perform the following steps for data preparation:
  * ROS bag parsing 
  * smoothing
  * rescaling
@@ -62,3 +62,8 @@ The scripts in this repo perform the following steps for data preparation:
  > The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained after the DTW.
 
  > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
+
+## Data analysis and stats
+
+For the analysis of the data in this experiment and the generated statsitics see the following repository:
+[user_performance_estimation](https://github.com/alpais/user_performance_estimation)
