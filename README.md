@@ -45,6 +45,20 @@ In this experiment we collected the following data :
      * forces and torques acting on the tool
   * external objects - full pose tracking
 * post experiment questionnaire data (annonymised)
-* video data - recordings of each demonstration performed by each subject)
-* video rating data - from external raters who have not performed the experiment
+* video data - recordings of each demonstration performed by each subject
+* video rating data - performed by external raters who have not done the experiment (only done for subjects with valid sensor data)
 * external measurements - scooped quantity
+
+
+## Data parsing and preprocessing
+
+The scripts in this repo perform the following steps for data preparation:
+* ROS bag parsing 
+* smoothing
+* rescaling
+* dynamic time warping
+* data plotting and visualization
+
+  > The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained after the DTW.
+
+  > Video recordings are not provided in order to protect the subjects' identity (total size 8.69 GB)
