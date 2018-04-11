@@ -53,11 +53,11 @@ In this experiment we collected the following data :
 ## Data parsing and preprocessing
 
 The scripts in this repo perform the following steps for data preparation:
-* ROS bag parsing 
-* smoothing
-* rescaling
-* dynamic time warping
-* data plotting and visualization
+ * ROS bag parsing 
+ * smoothing
+ * rescaling
+ * dynamic time warping
+ * data plotting and visualization
 
   > The initial ROS bag files are not provided due to the large size (total 39.6 GB). We provide the data obtained after the DTW.
 
