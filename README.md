@@ -70,3 +70,10 @@ The initial ROS bag files containing the sensor data are not provided due to the
 
 For the analysis of the data in this experiment and the generated statistics see the following repository:
 [user_performance_estimation](https://github.com/alpais/user_performance_estimation)
+
+### Reference
+
+This work is currently under review: Pais Ureche, A. L., and Billard, A. (2017) Automatic skill assessment in
+learning from demonstration. (Under Submission, 2017) 
+
+Funded in part by the European Union Seventh Framewowork Programme FP7/2007-2013 under grant agreement no 288533 ROBOHOW.COG, and by the European Commission Horizon 2020 Framework Programme, H2020-ICT-643950.
